@@ -1,2 +1,3 @@
-hallo ich bins nur
+﻿hallo ich bins nur
 diesen Eintrag habe ich von zu Hause eingefügt
+Diesen Beitrag in Form dieser Zeile hale ich im txt editor geschrieben, nachdem ich die Dateien in mein repository geladen habe ()zu Hause).
